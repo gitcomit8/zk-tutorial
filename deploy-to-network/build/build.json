@@ -1,0 +1,8 @@
+{
+  "smartContracts": [
+    {
+      "className": "Square",
+      "filePath": "/home/amb/zk-tutorial/deploy-to-network/build/src/Square.js"
+    }
+  ]
+}
